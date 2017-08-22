@@ -1,0 +1,18 @@
+{
+  "name": "media-type-express",
+  "version": "1.0.0",
+  "main": "mediaType.js",
+  "description": "Express middleware to check incoming media type",
+  "author": {
+    "name": "Michele Tibaldi",
+    "url": "https://github.com/uwburn/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/uwburn/media-type-express.git"
+  },
+  "license": "LGPL-3.0",
+  "dependencies": {
+    "http-error": "git+https://github.com/uwburn/http-error.git"
+  }
+}
